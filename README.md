@@ -27,8 +27,8 @@ Analyzing the study results and drawing meaningful conclusions is essential.
 
 Consider the Tableau visualizations we have created and answer the following questions:  
 
-1.What is the number of enrolled students monthly? Which is the month with the most enrollments? Speculate about the reason for the increased numbers.
-2.Which career track do students enroll most in?
-3.What is the career track completion rate? Can you say if it’s increasing, decreasing, or staying constant with time?
-4.How long does it typically take students to complete a career track? What type of subscription is most suitable for students who aim to complete a career track: monthly, quarterly, or annual?
-5.What advice and suggestions for improvement would you give the 365 team to boost engagement, increase the track completion rate, and motivate students to learn more consistently? 
+1. What is the number of enrolled students monthly? Which is the month with the most enrollments? Speculate about the reason for the increased numbers.
+2. Which career track do students enroll most in?
+3. What is the career track completion rate? Can you say if it’s increasing, decreasing, or staying constant with time?
+4. How long does it typically take students to complete a career track? What type of subscription is most suitable for students who aim to complete a career track: monthly, quarterly, or annual?
+5. What advice and suggestions for improvement would you give the 365 team to boost engagement, increase the track completion rate, and motivate students to learn more consistently? 
