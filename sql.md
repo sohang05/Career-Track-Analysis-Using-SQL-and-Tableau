@@ -1,4 +1,4 @@
-# Extracring Data with SQL
+# ExtracTing Data with SQL
 
 **Following is the query which is given in the sql project file**
 ```sql
@@ -179,7 +179,7 @@ JOIN  career_track_info
 ON
 career_track_info.track_id = career_track_student_enrollments.track_id
 ORDER BY days_for_completion DESC) a;
-
+```
 * The result will be something like this :
 
 student_id |track_name |date_enrolled | date_completed | student_track_id| track_completed| days_for_completion| completion_bucket|
