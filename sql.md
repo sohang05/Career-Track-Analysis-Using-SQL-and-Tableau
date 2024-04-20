@@ -184,12 +184,12 @@ ORDER BY days_for_completion DESC) a;
 
 student_id |track_name |date_enrolled | date_completed | student_track_id| track_completed| days_for_completion| completion_bucket|
 -----------|-----------|--------------|----------------|-----------------|-----------------|--------------------|-----------------|
-5827|Data Scientist|2022-04-30| |213| 0| | |
-5827|Data Analyst|2022-02-13| 2022-04-30| 214| 1| 76| 61 to 90 days|
-5836|Business Analyst| 2022-01-15| | 215| 0| | |
-5944| Data Scientist|2022-06-02| | 216| 0| | | 
-5974| Data Analyst|2022-01-03| 2022-01-23| 217| 1| 20| 8 to 30 days|
-6011| Data Scientist| 2022-03-20| |218 0| | |
-6053| Data Analyst| 2022-05-21| 2022-12-15| 219| 1|208| 91 to 365 days|
-6063| Data Analyst| 2022-01-23| | 220| 0| | |
-6164| Data Scientist| 2022-09-19| | 221| 0| | | 
+5827     |Data Scientist|   2022-04-30|    NULL        |      213        |         0       |        NULL        |      NULL       |
+5827     |Data Analyst  |   2022-02-13|    2022-04-30  |      214        |         1       |         76         |    61 to 90 days|
+5836     |Business Analyst| 2022-01-15|    NULL        |      215        |         0       |         NULL       |      NULL       |
+5944     | Data Scientist | 2022-06-02|    NULL        |      216        |         0       |         NULL       |      NULL       | 
+5974     |  Data Analyst  | 2022-01-03|    2022-01-23  |      217        |         1       |        20          |    8 to 30 days |
+6011     | Data Scientist | 2022-03-20|    NULL        |      218        |         0       |        NULL        |       NULL      |
+6053     | Data Analyst   | 2022-05-21|    2022-12-15  |      219        |        1        |        208         | 91 to 365 days  |
+6063     | Data Analyst   |  2022-01-23|   NULL        |      220        |         0       |        NULL        |       NULL      |
+6164     | Data Scientist | 2022-09-19 |   NULL        |      221        |         0       |        NULL        |       NULL      | 
